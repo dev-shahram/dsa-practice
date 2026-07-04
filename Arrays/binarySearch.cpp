@@ -17,7 +17,7 @@ int main() {
         int mid = (low + high) / 2;
 
         if (arr[mid] == z) {
-            cout << "Value Found";
+            cout << "Value Found by binary search";
             return 0;
         }
         else if (z > arr[mid]) {
@@ -28,5 +28,5 @@ int main() {
         }
     }
 
-    cout << "Value Not Found";
+    cout << "Value Not Found by binary search";
 }
