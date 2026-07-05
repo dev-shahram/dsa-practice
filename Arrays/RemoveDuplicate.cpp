@@ -10,12 +10,13 @@ int main(){
    	   	    
    	   	    if (arr[i]==arr[j]){
    	   	    	flag=true;
-   	   	    	for(int z=j;z<n;z++){
+   	   	    	for(int z=j;z<n-1;z++){
 					  
    	   	    	arr[z]=arr[z+1];
    	   	        
 				  }	
 				  n--;  
+                  j--; // decrement j to check the new element at index j after shifting
 			}
 		  }
    }
