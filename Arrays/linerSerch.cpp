@@ -27,6 +27,6 @@ int main(){
 		if (flag==true){
 			cout<<"value fount at index:"<<count<<endl;
 		}else{
-			cout<<"value not found try another\n";
+			cout<<"value not found try another thanks\n";
 		}
 }
