@@ -23,5 +23,5 @@ int main(){
 		}
 		
 	}
-	cout<<"the 2nd largest element is :"<<max2<<endl;
+	cout<<"the 2nd largest element is  :"<<max2<<endl;
 }
