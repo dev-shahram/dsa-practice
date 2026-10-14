@@ -15,6 +15,6 @@ int main(){
 		cout<<"array is sorted\n";
 	}
 	else{
-		cout<<"array is not sorted\n";
+		cout<<"array is not  sorted\n";
 	}
 }

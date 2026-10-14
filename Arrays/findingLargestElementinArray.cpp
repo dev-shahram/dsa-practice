@@ -16,4 +16,5 @@ int main(){
 		}
 	}
 	cout<<"the largest element in the array is :"<<max<<endl;
+cout<<"thats all"!
 }

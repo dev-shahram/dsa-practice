@@ -28,5 +28,6 @@ int main() {
         }
     }
 
-    cout << "Value Not Found by binary search";
+    cout << "Value Not Found by binary search try another";
+
 }

@@ -19,6 +19,6 @@ int main(){
 }
 else{
 
-   cout<<"duplicate not found\n";
+   cout<<"duplicate  not found\n";
 }
 }
