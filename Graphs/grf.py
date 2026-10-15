@@ -58,3 +58,4 @@ def ucs(graph,start):
             if child not in visted:
                 queue.append((cost+step,child))
 ucs(graph,'c')
+print("__________________________")
